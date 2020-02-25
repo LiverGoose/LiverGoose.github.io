@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'TengwarAnnatar';
+  src: url('TengwarAnnatar.woff') format('woff');
+  font-style: italic;
+}
+
 body {
   font-size: 100%;
 }
@@ -8,11 +14,14 @@ div {
 }
 
 h1 {
+  font-family: 'TengwarAnnatar';
   text-align: center;
+  font-size: 2.25em;
   color: #3079ff;
 }
 
 p {
+  font-family: 'Cambria';
   text-align: center;
   font-size: 0.75em;
 }
