@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'TengwarAnnatar';
+  src: url('TengwarAnnatar.woff') format('woff');
+  font-style: italic;
+}
+
+body {
+    background-color: #9c9c9c;
+    margin-left: 10%;
+    max-width: 800px;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h3 {
+    font-size: 27px;
+    font-family: 'TengwarAnnatar';
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+a {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    opacity: 0.35;
+}
+
+#description {
+    font-size: 20px;
+}
+
+#UoB {
+    color: #2d578c;
+}
+
+#resume {
+    color: #ffa18c;
+}
+
+#linkedin {
+    color: #2867B2;
+}
