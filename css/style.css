@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #d6d6d6;
+	color: #a0a0a0;
+    background-color: #353535;
     margin-left: 10%;
     max-width: 800px;
     margin-right: 10%;
@@ -46,7 +47,7 @@ a:hover {
 }
 
 #UoB {
-    color: #2d578c;
+    color: #407fcf;
 }
 
 #resume {
